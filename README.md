@@ -1,9 +1,9 @@
 # Scrap-affiliate-gramedia
 
-Tools ini untuk mengekstrak judul dan link affiliate dari affiliate gramedia
+Tools ini untuk mengekstrak judul dan link affiliate dari [affiliate gramedia](https://aff.gramedia.com/s/MrHMDcJDbt)
 
 ## Persiapan
-Sebelum menjalankan kode harus export dulu email dan password untuk login ke affiliate gramedia nya
+Sebelum menjalankan kode harus export dulu email dan password untuk login ke [affiliate gramedia](https://aff.gramedia.com/s/MrHMDcJDbt) nya
 ```bash
 export EMAIL="youremail@gmail.com"
 export PASSWORD="yourpassword"
