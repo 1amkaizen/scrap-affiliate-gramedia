@@ -1,6 +1,6 @@
 # Scrap-affiliate-gramedia
 
-Tools ini untuk mengekstrak judul dan link produk affiliate dari [[affiliate.gramedia.com/affiliate-link/generate-link](https://aff.gramedia.com/s/MrHMDcJDbt) dan menyimpannya ke dalam file txt
+Tools ini untuk mengekstrak judul dan link produk affiliate dari [affiliate.gramedia.com/affiliate-link/generate-link](https://aff.gramedia.com/s/MrHMDcJDbt) dan menyimpannya ke dalam file txt
 
 ## Persiapan
 Sebelum menjalankan kode harus export dulu email dan password untuk login ke [affiliate gramedia](https://aff.gramedia.com/s/MrHMDcJDbt) nya
