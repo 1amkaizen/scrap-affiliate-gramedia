@@ -1,6 +1,6 @@
 # Scrap-affiliate-gramedia
 
-Tools ini untuk mengekstrak judul dan link affiliate dari [affiliate gramedia](https://aff.gramedia.com/s/MrHMDcJDbt)
+Tools ini untuk mengekstrak judul dan link produk affiliate dari [[affiliate.gramedia.com/affiliate-link/generate-link](https://aff.gramedia.com/s/MrHMDcJDbt) dan menyimpannya ke dalam file txt
 
 ## Persiapan
 Sebelum menjalankan kode harus export dulu email dan password untuk login ke [affiliate gramedia](https://aff.gramedia.com/s/MrHMDcJDbt) nya
@@ -29,16 +29,6 @@ Opened login page.
 Entered email and password.
 Clicked login button.
 Login successful, current URL: https://affiliate.gramedia.com/dashboard
-Judul Produk: Cepat, Praktis, dan Gratis Membuat Website
-Link Produk: https://aff.gramedia.com/s/oBFIfnZHVb
+Mengambil data: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [00:31<00:00,  3.17baris/s]
 ---
-Judul Produk: Otodidak Desain Website dari Nol
-Link Produk: https://aff.gramedia.com/s/ZYhsfxdIPG
----
-Judul Produk: Menyelesaikan Website 12 Juta Secara Profesional
-Link Produk: https://aff.gramedia.com/s/FgtkGpHTPz
----
-Judul Produk: Cara Cepat Membuat Segala Jenis Website
-Link Produk: https://aff.gramedia.com/s/IoKtLdCMIa
----
-```
+
